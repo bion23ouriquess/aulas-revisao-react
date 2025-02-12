@@ -1,0 +1,16 @@
+.container-demo2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.diminuir-botao {
+    height: 25px;
+    width: 25px;
+}
+
+.aumentar-botao {
+    height: 25px;
+    width: 25px;
+}
